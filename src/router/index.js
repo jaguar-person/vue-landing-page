@@ -1,6 +1,5 @@
 import { createRouter, createWebHistory } from "vue-router";
 import HomePage from "../pages/index.vue";
-import NotFound from "../pages/404.vue";
 
 const routes = [
   {
